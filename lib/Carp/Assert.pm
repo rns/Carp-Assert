@@ -125,7 +125,7 @@ delete @ENV{qw(PERL_NDEBUG NDEBUG)};
 
 =end testing
 
-    "We are ready for any unforseen event that may or may not 
+    "We are ready for any unforeseen event that may or may not 
     occur."
         - Dan Quayle
 
